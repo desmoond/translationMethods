@@ -32,6 +32,9 @@
 *.app
 
 
+# Visual Studio Code files
+.vscode/
+
 # Visual Studio Cache files
 ipch/
 *.aps
@@ -42,3 +45,5 @@ ipch/
 *.cachefile
 *.VC.db
 *.VC.VC.opendb
+debug/
+release/
